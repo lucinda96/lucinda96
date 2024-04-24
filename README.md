@@ -51,15 +51,7 @@
   
 <p>🏆 Baekjoon solved rank 🏆</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucinda96&layout=compact)](https://github.com/lucinda96/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucinda96)](https://solved.ac/lucinda96)
-
-</div>
-
-
-
-<br><br>
-<div align="center">
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
