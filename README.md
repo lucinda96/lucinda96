@@ -5,6 +5,8 @@
 <br>
 <br>
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucinda96&theme=github-dark-blue&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)
 </div>
 
@@ -58,6 +60,12 @@
 
 <br><br>
 <div align="center">
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+<br>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=footer)
     
