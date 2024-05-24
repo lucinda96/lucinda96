@@ -1,8 +1,7 @@
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=header&text=Eunsol's%20Github&fontsize=120&fontColor=0f4c81)  
-  <br>
-  <br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lucinda96&theme=github-dark-blue&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)
+
 </div>
 
 <br>
