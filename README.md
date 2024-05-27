@@ -41,6 +41,7 @@
 
 <br>
 <div align="center"> 
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=footer)
     
 </div>
