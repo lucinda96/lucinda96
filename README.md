@@ -2,6 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=header&text=Eunsol's%20Github&fontsize=120&fontColor=0f4c81)  
 
+![eunsol's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucinda96&hide=issues&show_icons=true&theme=rose&locale=kr) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
@@ -35,9 +36,19 @@
 </div>
 
 <div align="center">
+  
   <h2> 🎨 Portfolio 🎨 </h2>
   
-</div>
+|NO|프로젝트 명|프로젝트 기간|사용언어|담|기여도|
+|----|----|----|----|----|
+|1|----|----|----|----|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucinda96&repo=OOP-showmethemoney&theme=swift)](https://github.com/lucinda96/OOP-showmethemoney) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucinda96&repo=wms-justdo&theme=swift)](https://github.com/lucinda96/wms-justdo) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucinda96&repo=boot-blog&theme=swift)](https://github.com/lucinda96/boot-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucinda96&repo=book-wms&theme=swift)](https://github.com/lucinda96/book-wms)
+
+</div> 
 
 <br>
 <div align="center"> 
@@ -45,4 +56,3 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=footer)
     
 </div>
-
