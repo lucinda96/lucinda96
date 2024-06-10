@@ -3,6 +3,14 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=header&text=Eunsol's%20Github&fontsize=120&fontColor=0f4c81)  
 
 ![eunsol's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucinda96&hide=issues&show_icons=true&theme=rose&locale=kr)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucinda96&layout=compact&exclude_repo=07_Javascript_team,04_mybatis_team,03_jdbc_team,07_Javascript,04_mybatis,06_css_team,05_html_team,03_jdbc,02_mysql,02_mysql_team,01_java_team,05_html,01_Java)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/lucinda96"
+  width="600"
+  height="200"
+/>
+</a>
 </div>
 
 <br>
@@ -36,7 +44,9 @@
 </div>
 
 <div align="center">
+
   
+  <br>
   <h2> 🎨 Portfolio 🎨 </h2>
 
 |NO|화면 구분|사용언어|프로젝트 명<br>(레포명)|프로젝트 기간|담당 역할|기여도|
@@ -61,6 +71,8 @@
 
 <br>
 <div align="center"> 
+
+
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=footer)
     
